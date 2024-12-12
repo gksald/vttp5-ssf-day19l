@@ -1,8 +1,8 @@
-package sg.edu.nus.iss.vttp5_ssf_day19l.restcontroller;
+// package sg.edu.nus.iss.vttp5_ssf_day19l.restcontroller;
 
-import org.springframework.web.bind.annotation.RestController;
+// import org.springframework.web.bind.annotation.RestController;
 
-@RestController
-public class WeatherRestController {
+// @RestController
+// public class WeatherRestController {
     
-}
+// }
